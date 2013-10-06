@@ -17,6 +17,11 @@ CARA MEMULAI
 1.	Anda cukup mengklik file yang ingin anda lihat / edit
 2.	Saat tampil, klik edit yang ada di sudut kanan atas
 3.	Selamat menulis :D
+4.	Jangan lupa sebelum menekan tombol __"Commit Changes"__ (tombol hijau
+	di bagian bawah), lakukan preview dulu (tombol di sudut kiri atas),
+	dan isikan commit summary yang relevan.
+5.	Untuk sekarang, semua pengeditan dilakukan langsung di browser saja,
+	kecuali kalau anda sudah tahu gimana cara pake __GIT__ secara __lokal__.
 
 
 PANDUAN
