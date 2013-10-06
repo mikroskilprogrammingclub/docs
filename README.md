@@ -41,6 +41,6 @@ nanti tinggal dipindahkan ke file .doc atau .docx untuk urusan
 layouting dan printing.
 
 
-[md]:	http://daringfireball.net/projects/markdown
-[ref1]:	http://daringfireball.net/projects/markdown/syntax
-[ref2]:	https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[md]: http://daringfireball.net/projects/markdown
+[ref1]: http://daringfireball.net/projects/markdown/syntax
+[ref2]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
