@@ -3,25 +3,25 @@ DOKUMENTASI
 
 Tujuan dibuat repositori ini :
 
-1.	Sebagai tempat untuk menampung semua dokumentasi mentah
-2.	Sebagai media untuk berkolaborasi dalam menulis dokumentasi
-	dan menuangkan ide
-3.	Mempermudah dalam melakukan audit dan memberi masukan
-4.	Memberi kemudahan dalam penanganan revisi dokumen dan backup
-5.	Menambah fokus pada penulisan ide bukan pada mendesain layout tulisan
+1.  Sebagai tempat untuk menampung semua dokumentasi mentah
+2.  Sebagai media untuk berkolaborasi dalam menulis dokumentasi
+    dan menuangkan ide
+3.  Mempermudah dalam melakukan audit dan memberi masukan
+4.  Memberi kemudahan dalam penanganan revisi dokumen dan backup
+5.  Menambah fokus pada penulisan ide bukan pada mendesain layout tulisan
 
 
 CARA MEMULAI
 ============
 
-1.	Anda cukup mengklik file yang ingin anda lihat / edit
-2.	Saat tampil, klik edit yang ada di sudut kanan atas
-3.	Selamat menulis :D
-4.	Jangan lupa sebelum menekan tombol __"Commit Changes"__ (tombol hijau
-	di bagian bawah), lakukan preview dulu (tombol di sudut kiri atas),
-	dan isikan commit summary yang relevan.
-5.	Untuk sekarang, semua pengeditan dilakukan langsung di browser saja,
-	kecuali kalau anda sudah tahu gimana cara pake __GIT__ secara __lokal__.
+1.  Anda cukup mengklik file yang ingin anda lihat / edit
+2.  Saat tampil, klik edit yang ada di sudut kanan atas
+3.  Selamat menulis :D
+4.  Jangan lupa sebelum menekan tombol __"Commit Changes"__ (tombol hijau
+    di bagian bawah), lakukan preview dulu (tombol di sudut kiri atas),
+    dan isikan commit summary yang relevan.
+5.  Untuk sekarang, semua pengeditan dilakukan langsung di browser saja,
+    kecuali kalau anda sudah tahu gimana cara pake __GIT__ secara __lokal__.
 
 
 PANDUAN
@@ -33,8 +33,8 @@ ada di sini yang sudah pernah dibuat (klik edit pada file yang
 bersangkutan) atau lihat referensinya untuk
 lebih detailnya. Berikut beberapa referensi yang bisa
 dijadikan pedoman.
--	[ref bagian 1][ref1] 
--	[ref bagian 2][ref2]
+-   [ref bagian 1][ref1]
+-   [ref bagian 2][ref2]
 
 Siapapun boleh ikut membantu menyempurnakan tulisan yang ada di sini.
 Jangan takut melakukan kesalahan, karena dari sanalah anda bisa belajar
