@@ -4,7 +4,7 @@
 LATAR BELAKANG
 ==============
 
-Saat ini, banyak sekali workshop yang mempresentasikan tetang bahasa
+Zaman semakin berkembang pesat, begitu juga dengan teknologi. Banyak sekali workshop yang mempresentasikan tentang bahasa
 pemrograman, pengenalan algoritma, dan lainnya yang berkaitan dengan IT.
 Kegiatan workshop tersebut penting untuk mengenalkan bahasa pemrograman
 kepada peserta workshop.
