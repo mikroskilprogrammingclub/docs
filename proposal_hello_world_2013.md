@@ -4,7 +4,8 @@
 LATAR BELAKANG
 ==============
 
-Zaman semakin berkembang pesat, begitu juga dengan teknologi. Banyak sekali workshop yang mempresentasikan tentang bahasa
+Zaman semakin berkembang pesat, begitu juga dengan teknologi. 
+Banyak sekali workshop yang mempresentasikan tentang bahasa
 pemrograman, pengenalan algoritma, dan lainnya yang berkaitan dengan IT.
 Kegiatan workshop tersebut penting untuk mengenalkan bahasa pemrograman
 kepada peserta workshop.
@@ -66,19 +67,12 @@ JADWAL
 Kegiatan akan dilaksanakan pada tanggal :
 
     Hari / Tanggal  : Sabtu / 19 Oktober 2013
-    Lokasi          : Hall Kampus C
-    Waktu           :
+    Lokasi          : Ruang T2/L3 Kampus B, STMIK - STIE MIKROSKIL
+    Waktu           : 15:00 - 17:00 WIB
 
 
 SASARAN
 =======
 
-Sasaran peserta adalah mahasiswa STMIK – STIE Mikroskil dengan jumlah
+Sasaran peserta adalah mahasiswa STMIK – STIE MIKROSKIL dengan jumlah
 peserta minimal 100 orang.
-
-
-IDE TAMBAHAN
-============
-1. Memberitahukan kepada anggota-anggota MPC tentang rencana kita membuat 4 class. Dengan begitu, peluang untuk berhasil itu akan jauh lebih besar karena kita mendapat dukungan dari anggota-anggota lainnya.
-2. Adanya sesi menanyakan goal anggota-anggota baru MPC yang memotivasi mereka untuk masuk di MPC ini.
-3. Membagi MPC menjadi beberapa bagian lagi. Tetapi MPC tetap menjadi parentnya. Seperti di Binus, mereka ada JollyBee : Grup yang berfokus di Algorithm. Lalu Binus Hacker Club: Grup yang berfokus di Hacking, dll. Jadi setiap grup itu punya goal dan fokus masing-masing.
