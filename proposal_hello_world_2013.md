@@ -58,7 +58,7 @@ Berikut panitia yang mendukung kegiatan ini :
     Ketua               : Michael
     Wakil Ketua         : Septian Rahman
     Sekretaris          : Dewi Ratna Sari
-    Bendahara           : Sherly
+    Bendahara           : Sherly Febrianti
     Pembawa Acara       : Steven Handoko
                           Frendy
     Seksi Perlengkapan  : Steven
