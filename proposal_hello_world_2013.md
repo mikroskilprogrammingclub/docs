@@ -4,24 +4,17 @@
 LATAR BELAKANG
 ==============
 
-Zaman semakin berkembang pesat, begitu juga dengan teknologi. 
-Banyak sekali workshop yang mempresentasikan tentang bahasa
-pemrograman, pengenalan algoritma, dan lainnya yang berkaitan dengan IT.
-Kegiatan workshop tersebut penting untuk mengenalkan bahasa pemrograman
-kepada peserta workshop.
-
-Pada workshop kali ini, kami selaku panitia MPC akan mengadakan workshop
-tentang Hello World. Hello World sendiri sudah diperkenalkan dalam berbagai
-bidang IT. Hello World merupakan perkenalan IT untuk mensosialisasikan
-peserta dalam memahami konsep dan pengenalan IT. Bahkan dalam bahasa
-pemrograman apapun, Hello World inilah yang dipakai untuk contoh pertama
-coding bahasa pemrograman apapun.
-
-Untuk memaksimalkan workshop ini, maka kami selaku panitia MPC akan
-memperkenalkan apa saja yang dilaksanakan dalam kegiatan MPC. Melalui
-workshop ini, diharapkan mahasiswa dapat aktif dalam mengikuti kegiatan
-MPC serta bisa berorganisasi dalam MPC.
-
+    Seiring dengan perkembangan zaman, teknologi kini telah menjadi salah satu “kebutuhan pokok” manusia. 
+Hal tersebut tampak jelas dari ketergantungan masyarakat terhadap teknologi dalam bidang informasi, 
+komunikasi, transportasi, maupun berbagai bidang lainnya. Jika ditinjau dari dunia pendidikan, 
+pengetahuan mengenai perkembangan teknologi ini juga dianggap sangat penting untuk dipelajari. 
+Oleh karena itu pengetahuan mengenai teknologi telah diajarkan sejak usia muda dan terus berlanjut hingga 
+ke jenjang perkuliahan. Hanya saja, pengetahuan mahasiswa IT terhadap jurusan yang dipilihnya masih sangat minim. 
+Oleh karena itu, kami selaku panitia MPC akan mengadakan workshop tentang Hello World. 
+    Hello World merupakan perkenalan IT untuk mensosialisasikan peserta dalam memahami 
+konsep dan pengenalan IT. Untuk memaksimalkan workshop ini, maka kami selaku panitia MPC akan 
+memperkenalkan apa saja yang dilaksanakan dalam kegiatan MPC. Melalui workshop ini, diharapkan mahasiswa dapat 
+termotivasi untuk aktif dalam mengikuti kegiatan MPC serta bisa berorganisasi dalam MPC.
 
 TUJUAN
 ======
