@@ -28,10 +28,13 @@ TUJUAN
 
 Kegiatan ini bertujuan untuk :
 
-1.  Menjadikan mahasiswa lebih aktif dalam kegiatan MPC.
-2.  Mengembangkan kemampuan mahasiswa dalam berorganisasi, pemrograman,
+1.  Memperkenalkan dunia IT dan organisasi MPC.
+2.  Menjadikan mahasiswa lebih aktif dalam kegiatan MPC.
+3.  Mengembangkan kemampuan mahasiswa dalam berorganisasi, pemrograman,
     serta mampu mengembangkan aplikasi.
-3.  Mencari kader-kader mahasiswa yang berbakat.
+4.  Mencari kader-kader mahasiswa yang berbakat.
+5.  Menjalin hubungan antar panitia maupun anggota dalam berorganisasi.
+
 
 
 MANFAAT
@@ -43,6 +46,8 @@ Kegiatan ini diharapkan dapat :
     pengembangan aplikasi.
 2.  Menambah pengetahuan tentang programming.
 3.  Dapat berpartisipasi dalam kegiatan MPC.
+4.  Memotivasi mahasiswa untuk belajar dan berorganisasi di MPC.
+5.  Membentuk keakraban pada setiap anggota MPC.
 
 
 PANITIA KEGIATAN
