@@ -10,7 +10,7 @@ komunikasi, transportasi, maupun berbagai bidang lainnya. Jika ditinjau dari dun
 pengetahuan mengenai perkembangan teknologi ini juga dianggap sangat penting untuk dipelajari. 
 Oleh karena itu pengetahuan mengenai teknologi telah diajarkan sejak usia muda dan terus berlanjut hingga 
 ke jenjang perkuliahan. Hanya saja, pengetahuan mahasiswa IT terhadap jurusan yang dipilihnya masih sangat minim. 
-Oleh karena itu, kami selaku panitia MPC akan mengadakan workshop tentang Hello World.
+Oleh karena itu, kami selaku panitia MPC akan mengadakan workshop dengan tema Hello World.
 
 Hello World merupakan perkenalan IT untuk mensosialisasikan peserta dalam memahami 
 konsep dan pengenalan IT. Untuk memaksimalkan workshop ini, maka kami selaku panitia MPC akan 
